@@ -28,6 +28,21 @@
             "National Business Registry Number",
             "test2"
           ]
+        },
+		
+		    "2": {
+          "pl": "xxx",
+          "eng": "yyy",
+          "keywords": [
+            "National Court Register",
+            "zawrzeć",
+            "Krajowy Rejestr Sądowy",
+            "share capital",
+            "kapitał zakładowy",
+            "REGON",
+            "National Business Registry Number",
+            "test2"
+          ]
         }
       }
     },
