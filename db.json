@@ -29,8 +29,7 @@
             "test2"
           ]
         },
-		
-		    "2": {
+        "2": {
           "pl": "xxx",
           "eng": "yyy",
           "keywords": [
@@ -93,12 +92,108 @@
             "meaning",
             "termin",
             "test2",
-		 "terms"
+            "terms"
           ]
         }
       },
       "Description_PL": "Definicje kluczowych terminöw",
       "Description_EN": "Defined term makes a contract easier to read by allowing the drafter to use throughout the contract the shorter defined term instead of the longer definition. It also ensures that whatever is defined is expressed consistently throughout the contract ",
+      "Keywords": ""
+    },
+    "Warranties and Representations": {
+      "Examples": {
+        "0": {
+          "pl": "Dostawca gwarantuje Klientowi, że dostarczone Produkty są odpowiedniej jakości oraz są zgodne ze wszystkimi istotnymi danymi w specyfikacji Produktu.",
+          "eng": "The Supplier warrants to the Customer that the Products, as delivered to the Customer, will be of sound materials and workmanship and will comply in all material respects with the Specification.",
+          "keywords": [
+            "gwarantować",
+            "jakość",
+            "warranty",
+            "comply"
+          ]
+        },
+        "1": {
+          "pl": "Dostawca ponosi odpowiedzialność z tytułu niniejszej gwarancji, tylko jeśli Klient pisemnie powiadomi dostawcę o wszelkich wadach w ciągu trzydziestu (30) dni od daty, kiedy zostały one wykryte.",
+          "eng": "The Supplier shall only be liable under this warranty provided that the Customer gives written notice of any defects to the Supplier within thirty (30) days after such date as they are or should first reasonably have been discovered.",
+          "keywords": [
+            "odpowiedzialność",
+            "wada",
+            "liable",
+            "warranty",
+            "defect",
+            "discovery",
+            "notice"
+          ]
+        },
+        "2": {
+          "pl": "Dostawca nie ponosi odpowiedzialności za szkody pośrednie lub wtórne, utratę zysków lub roszczenia osób trzecich w odniesieniu do Produktów (Dostawca ponosi odpowiedzialność za śmierć lub uszkodzenie ciała wynikające z wad Produktów spowodowanych zaniedbaniem Dostawcy).",
+          "eng": "The Supplier shall not be liable for any indirect or consequential losses, loss of profits or third party claims in relation to the Products (with the exception that the Supplier shall remain liable for death or personal injury arising out of defects in the Products to the extent attributable to the Supplier’s negligence).",
+          "keywords": [
+            "odpowiedzialność",
+            "szkody",
+            "roszczenia",
+            "zaniedbanie",
+            "consequential",
+            "claim",
+            "injury"
+          ]
+        }
+      },
+      "Description_PL": "Potwierdzenie prawdziwosci faktów, które skloniły je do przystąpienia do umowy; udzielenie rękojmi za ewentualne wady prawne lub wady fizyczne rzeczy, których umowa dotyczy",
+      "Description_EN": "Representations and warranties are assurances that one party gives to another party; assurances are statements that the party can rely on as factual.",
+      "Keywords": ""
+    },
+    "Default": {
+      "Examples": {
+        "0": {
+          "pl": "",
+          "eng": "",
+          "keywords": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        "1": {
+          "pl": "",
+          "eng": "",
+          "keywords": [
+            "",
+            "",
+            ""
+          ]
+        }
+      },
+      "Description_PL": "Naruszenie postanowień umowy",
+      "Description_EN": "The omission or failure to fulfill a duty, observe a promise, discharge an obligation, or perform an agreement",
+      "Keywords": ""
+    },
+    "Force Majeure": {
+      "Examples": {
+        "0": {
+          "pl": "Dostawca nie ponosi odpowiedzialności za niedostarczanie Produktów lub usług technicznych na mocy niniejszej Umowy, jeśli wynika to ze wszelkich okoliczności niezależnych od dostawcy, w tym ognia, eksplozji, terroryzmu, strajków, burzy, powodzi lub działań, poleceń lub interwencji wszelkich stosownych władz lokalnych lub rządowych.",
+          "eng": "The Supplier shall not be liable for any failure in the supply of the Products or technical service under this Agreement where such failure results from any circumstances beyond the reasonable control of the Supplier including but not limited to fire, explosion, terrorism, stoppages or work due to industrial action, lightening, storm, floods or acts, orders or intervention of any applicable local or governmental or public or private authority or utility.",
+          "keywords": [
+            "okoliczności",
+            "odpowiedzialność",
+            "strajk",
+            "liability",
+            "stoppage"
+          ]
+        },
+        "1": {
+          "pl": "Gdy Dostawca dowie się o okolicznościach opisanych pkt 10.1, niezwłocznie powiadomi Klienta o tych okolicznościach i ich przewidywanym wpływie na wykonywane przez niego zobowiązania Umowy.",
+          "eng": "In the event that the Supplier becomes aware of any such circumstances, as described in clause 10.1, the Supplier shall as soon as is reasonably practicable notify the Customer of the circumstances and the anticipated effect on performance of this contract by the Supplier.",
+          "keywords": [
+            "okoliczności",
+            "circumstances",
+            "notice"
+          ]
+        }
+      },
+      "Description_PL": "Zdarzenia o charakterze przypadkowym lub naturalnym, nie do uniknięcia lub nad którym człowiek nie panuje",
+      "Description_EN": "An event or effect that can be neither anticipated nor controlled",
       "Keywords": ""
     }
   }
